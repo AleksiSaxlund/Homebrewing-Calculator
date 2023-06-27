@@ -18,16 +18,16 @@ The latest release can be found [here](https://github.com/AleksiSaxlund/Homebrew
 
 ### Starting the Program:
 
-  poetry run invoke start
+  > poetry run invoke start
 
 ### Running Tests:
 
-  poetry run invoke test
+  > poetry run invoke test
 
 ### Test Coverage:
 
-  poetry run invoke coverage-report
+  > poetry run invoke coverage-report
 
 ### Pylint Check:
 
-  poetry run invoke lint
+  > poetry run invoke lint
