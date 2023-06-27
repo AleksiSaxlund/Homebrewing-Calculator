@@ -60,7 +60,7 @@
   - IBU (International Bitterness Units)
   - SRM (Standard Reference Method)
 - Users can write separate notes about the recipe.
-- SQL databases for ingredients
+- No SQL databases for the ingredients currently
 - GUI
 - Unittesting for the existing classes
 - English documentation
