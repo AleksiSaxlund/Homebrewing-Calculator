@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "harjoitustyo"
+name = "Homebrewing Calculator"
 version = "0.1.0"
 description = ""
 authors = ["AleksiSaxlund <115921686+AleksiSaxlund@users.noreply.github.com>"]

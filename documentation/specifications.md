@@ -8,7 +8,7 @@ The purpose of the application is to provide users with a tool for designing var
 
 ### Implemented Functionality
 
-- Users can add malts, hops, and yeast from the database to the recipe.
+- Users can add malts, hops, and yeast to the recipe.
 - Users can specify the batch size.
 - After each addition, the following default values are calculated and displayed to the user:
   - Original Gravity
@@ -17,6 +17,14 @@ The purpose of the application is to provide users with a tool for designing var
   - IBU (International Bitterness Units)
   - SRM (Standard Reference Method)
 - Users can write separate notes about the recipe.
+
+### Future Planned Functionality
+
+- Ingredient databases
+- Recipe saving and loading
+- Boil time adjustments
+- Improved accuracy for the calculations
+- 
 
 ## Limitations from the Brewer's Perspective
 
