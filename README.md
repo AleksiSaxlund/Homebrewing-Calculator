@@ -31,3 +31,7 @@ The latest release can be found [here](https://github.com/AleksiSaxlund/Homebrew
 ### Pylint Check:
 
   > poetry run invoke lint
+
+## BrewDB
+
+The database for the ingredients is [BrewDB](https://github.com/sboulema/BrewDB) from [Samir Boulema](https://github.com/sboulema)

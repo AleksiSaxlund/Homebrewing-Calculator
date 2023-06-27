@@ -1,0 +1,3 @@
+[submodule "BrewDB"]
+	path = BrewDB
+	url = https://github.com/sboulema/BrewDB
