@@ -31,3 +31,11 @@ The latest release can be found [here](https://github.com/AleksiSaxlund/Homebrew
 ### Pylint Check:
 
   poetry run invoke lint
+
+## Future Feature Roadmap 
+1. Implement a database
+2. Implement better calculation for IBU
+3. Add save/load feature
+4. ??
+
+1.0.0 release when atleast 1-3 points implemented and working.
