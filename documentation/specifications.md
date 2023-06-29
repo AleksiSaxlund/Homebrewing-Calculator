@@ -24,7 +24,10 @@ The purpose of the application is to provide users with a tool for designing var
 - Recipe saving and loading
 - Boil time adjustments
 - Improved accuracy for the calculations
-- 
+- Custom ingredients
+- Edit database
+  - add/remove ingredients
+- UI improvements
 
 ## Limitations from the Brewer's Perspective
 
